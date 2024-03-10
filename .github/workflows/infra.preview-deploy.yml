@@ -18,8 +18,7 @@ jobs:
     name: "Preview"
     runs-on: ubuntu-latest
     steps:
-      - run: |
-        echo "Hello World"
+      - run: echo "Hello World"
 
 
 
